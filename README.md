@@ -2,4 +2,4 @@
 SwiftUI Tutorial
 
 
-![Sample](a.png)
+![Sample](sample.png)
